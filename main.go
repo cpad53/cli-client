@@ -26,7 +26,7 @@ Usage:
   cli-client <command> [args]
 
 Commands:
-  end              Send an event to the server
+  send             Send an event to the server
   last             Get the last event from the server
   conf             Show current configuration
 
