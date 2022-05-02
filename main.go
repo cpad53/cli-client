@@ -138,6 +138,8 @@ func main () {
 				println(err.Error())
 				os.Exit(1)
 			}
+		case "conf":
+			showConfig()
 		}
 	}
 }
